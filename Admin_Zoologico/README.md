@@ -1,5 +1,9 @@
 # **Proyecto en JAVA con NetBeans y bases de datos MySQL**
 
+Para el correcto funcionamiento se utilizaron las siguientes librerias:
+- AbsoluteLayout.jar
+- mysql-connector-java-5.1.13-bin.jar
+
 ### **- Home**
 
 
