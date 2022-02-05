@@ -1,5 +1,15 @@
 # **Proyecto en JAVA NetBeans para empresa de fumigación**
 
+Para este proyecto se utilizan las siguientes librerias:
+- AbsoluteLayout.jar
+- jcalendar-1.4.jar
+- jcommon-1.0.23.jar
+- jcommon-xml-1.0.23.jar
+- jfreechart-1.5.0.jar
+- junit-4.10.jar
+- mysql-connector-java-5.1.23-bin.jar
+- RSCalendar.jar
+- RSFoto_v1.0.jar
 
 ### **- Login**
 
